@@ -1,0 +1,4 @@
+ESP32 S3 Family Module
+DHT 22
+Oled Screen 128*32
+Cable to supply power and upload the program on it
